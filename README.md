@@ -1,4 +1,4 @@
-# Code Hiccups (PERN)
+# Code Hiccups
 
 Code Hiccups is a platform where users can submit coding questions and get answers from the community. Questions are organized by tags for easy browsing, and answers are rated based on the reputation of their contributors. This reputation system ensures that the most reliable responses are highlighted, making it simpler for users to find effective solutions or explore answers to previously asked questions. Unlike the previous Next.js project, this one utilizes Server Actions exclusively, along with the new "useFormState" and "useFormStatus" hooks for streamlined form handling. The middleware file has also been updated to ensure compatibility with Server Actions.
 
